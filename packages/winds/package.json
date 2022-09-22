@@ -1,0 +1,15 @@
+{
+  "name": "@esvista/winds",
+  "version": "0.0.1-rc.1",
+  "description": "esvista tailwindcss plugin and styles",
+  "author": "Eric Sotomayor <elpasocolorartist@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoto76/esvista.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esoto76/esvista/issues"
+  },
+  "homepage": "https://github.com/esoto76/esvista/tree/main/packages/winds#readme"
+}
